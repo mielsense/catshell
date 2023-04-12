@@ -85,7 +85,10 @@
 <div align="center">
   <a href="https://github.com/underhoney">@mathis</a> <br>
   <br>
-
+  
+  Please do note this project was made as an Epitech project and as such has to follow its coding style <br>
+  (so its not my fault if code looks bad af)
+  
   This project is open to contibutors for now ! (hit up my dms)
 </div>
 
