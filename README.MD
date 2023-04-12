@@ -29,11 +29,11 @@
 
 <div align="center">
 
-    ```bash
-    setenv / unsetenv / env
-    config commands
-    exit
-    ```
+   ```bash
+   setenv / unsetenv / env
+   config commands
+   exit
+   ```
 
 </div>
   
