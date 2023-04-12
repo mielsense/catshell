@@ -27,11 +27,15 @@
   The following builtins have been implemented :
 </p>
 
-  ```bash
-  setenv / unsetenv / env
-  config commands
-  exit
-  ```
+<div align="center">
+
+    ```bash
+    setenv / unsetenv / env
+    config commands
+    exit
+    ```
+
+</div>
   
  <br>
 <p align="center">You can modify the aliases and startup art in the .config/init.txt file </p>
