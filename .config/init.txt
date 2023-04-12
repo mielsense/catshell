@@ -1,0 +1,16 @@
+## general infos
+
+use_aliases=1
+startup_art=ressources/startup_art
+
+## aliases
+
+alias:l:ls -Gl
+alias:la:ls -ahGl --color
+alias:ccd:cd ..
+alias:c:clear
+alias:h:cd /
+alias:nv:nvim
+alias:lv:lvim
+alias:m:make
+alias:mr:make re

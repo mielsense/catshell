@@ -1,0 +1,17 @@
+# Executables
+catshell
+
+# Unwanted typ files
+*.a
+*.o
+*.pdf
+
+# Hidden ide / mac files
+*.dSYM/
+.DS_Store
+
+# Only for personal purposes
+tests/
+README.MD
+launch_shell.sh
+Dockerfile
