@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  v 0.1
+  v 1.0
 </div>
 
 ###
